@@ -934,7 +934,7 @@ transform: rotateY(360deg);
     margin-bottom: 20px;
 }
 .banner-inner-area.banner-area1:before {
-    background: url(../img/banner/main-base.png);
+    background: url(https://cdn.jsdelivr.net/gh/kevindcw/CDN@1.0.6/TimeNotes-19.png);
     background-position: top right;
     background-repeat: no-repeat;
     height: 100%;
@@ -1038,7 +1038,7 @@ transform: translateY(-30px)
     right: -6%;
 }/* home2 */
 .banner-inner-area.banner-area1.banner2:before {
-    background: url(../img/banner/base3.png);
+    background: url(https://cdn.jsdelivr.net/gh/kevindcw/CDN@1.0.6/TimeNotes-22.png);
     background-position: top right;
     background-repeat: no-repeat;
     height: 100%;
